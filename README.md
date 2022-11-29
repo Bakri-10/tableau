@@ -1,5 +1,5 @@
 
-Dockerfile for Tableau Server on Linux - Single Node. 
+#Dockerfile for Tableau Server on Linux. 
 
 ## Build
    
