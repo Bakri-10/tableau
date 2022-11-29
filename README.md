@@ -1,5 +1,5 @@
 
-#Dockerfile for Tableau Server on Linux. 
+# Dockerfile for Tableau Server on Linux. 
 
 ## Build
    
